@@ -15,3 +15,6 @@ while r != int:
         break   
     except ValueError:
             print ('Please enter an integer')
+
+# https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
+# https://www.reddit.com/r/learnpython/comments/4ps9zn/the_collatz_sequence_automate_the_boring_stuff/
