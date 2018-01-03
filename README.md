@@ -1,2 +1,3 @@
-# automate_python
-Automate the Boring Stuff with Python
+# Automate the Boring Stuff with Python
+
+https://www.automatetheboringstuff.com
